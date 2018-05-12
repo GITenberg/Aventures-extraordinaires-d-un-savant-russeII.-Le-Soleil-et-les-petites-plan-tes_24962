@@ -7,7 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/25083
   - agent_name: Vallet, L. (Louis)
     alias: Vallet, Louis
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1940
     gutenberg_agent_id: '26836'
     url: http://www.gutenberg.org/2009/agents/26836
@@ -36,12 +36,14 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7542
   - agent_name: Le Faure, Georges
     alias: Faure, Georges Le
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1953
     gutenberg_agent_id: '8850'
     url: http://www.gutenberg.org/2009/agents/8850
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Le_Faure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24962#Aventures-extraordinaires-d-un-savant-russeII.-Le-Soleil-et-les-petites-plan-tes
 gutenberg_bookshelf: FR Science fiction
 gutenberg_issued: '2008-03-30'
 gutenberg_type: Text
